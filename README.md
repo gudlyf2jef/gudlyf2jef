@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francis Adegbe</h1>
 <h3 align="center">in collaboration and building together with a team</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gudlyf2jef" alt="gudlyf2jef" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gudlyf2jef" alt="gudlyf2jef" /></a> </p>
 
 - 🔭 I’m currently working on [a project in c](#)
 
