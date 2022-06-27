@@ -15,7 +15,8 @@
 
 - 📝 I regularly write articles on [https://dev.to/gudlyf2jef](https://dev.to/gudlyf2jef)
 
-- 💬 Ask me about **html. css, js, php, c**
+- 💬 Ask me about **html. css, js, php, c, python, 
+react Native, c#, Asp.Net
 
 - 📫 How to reach me **Francismission61@gmail.com**
 
