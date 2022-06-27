@@ -5,17 +5,17 @@
 
 - 🔭 I’m currently working on [a project in c](#)
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **Self branding and advanced actualization**
 
 - 👯 I’m looking to collaborate on [alx-africa](#)
 
-- 🤝 I’m looking for help with [dev assignments](#)
+- 🤝 I’m looking for help with others with [dev assignments](#)
 
 - 👨‍💻 All of my projects are available at [https://github.com/gudlyf2jef/](https://github.com/gudlyf2jef/)
 
 - 📝 I regularly write articles on [https://dev.to/gudlyf2jef](https://dev.to/gudlyf2jef)
 
-- 💬 Ask me about **html. css, js, php, c, python, 
+- 💬 Ask me about **html. css, js, php, c,, NOde.js, React.js, python, 
 react Native, c#, Asp.Net
 
 - 📫 How to reach me **Francismission61@gmail.com**
