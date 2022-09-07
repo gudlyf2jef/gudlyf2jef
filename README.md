@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [a project in c](#)
 
-- 🌱 I’m currently learning **Self branding and advanced actualization**
+- 🌱 I’m currently learning **Data Analytics with GOOGLE**
 
-- 👯 I’m looking to collaborate on [alx-africa](#)
+- 👯 I’m looking to collaborate on [ development projects ](#)
 
 - 🤝 I’m looking for help with others with [dev assignments](#)
 
@@ -15,12 +15,12 @@
 
 - 📝 I regularly write articles on [https://dev.to/gudlyf2jef](https://dev.to/gudlyf2jef)
 
-- 💬 Ask me about **html. css, js, php, c,, NOde.js, React.js, python, 
+- 💬 Ask me about **html. css, js, php, c, Bash scripting, Node.js, React.js, python, 
 react Native, c#, Asp.Net
 
-- 📫 How to reach me **Francismission61@gmail.com**
+- 📫 How to reach me **+234 706 847 3984**  **Francismission61@gmail.com** 
 
-- 📄 Know about my experiences [http://francis.ttdemocrats.org/](http://francis.ttdemocrats.org/)
+- 📄 I love travelling and meeting new **tech buddies...**
 
 - ⚡ Fun fact **fun to be with as well as teach you new tech stuffs**
 
