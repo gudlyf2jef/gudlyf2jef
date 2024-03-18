@@ -3,9 +3,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gudlyf2jef" alt="gudlyf2jef" /></a> </p>
 
-- 🔭 I’m currently working on [a project in python and react Native](#)
+- 🔭 I’m currently working on [a project in python](#)
 
-- 🌱 I’m currently learning **Data Analytics with GOOGLE**
+- 🌱 I’m currently learning **Cyber Security with GOOGLE**
 
 - 👯 I’m looking to collaborate on [ development projects ](#)
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/gudlyf2jef](https://dev.to/gudlyf2jef)
 
-- 💬 Ask me about **html. css, js, php, c, Bash scripting, python,c#
+- 💬 Ask me about **node js, react js, js, php, c, Bash scripting, python,c#
 
 - 📫 How to reach me **+234 706 847 3984**  **Francismission61@gmail.com** 
 
@@ -27,9 +27,9 @@
 <p align="left">
 <a href="https://dev.to/gudlyf2jef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gudlyf2jef" height="30" width="40" /></a>
 <a href="https://twitter.com/gudlyf2jef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gudlyf2jef" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gudlyf2jef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gudlyf2jef" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adegbefrancis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gudlyf2jef" height="30" width="40" /></a>
 <a href="https://fb.com/gudlyf2jef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gudlyf2jef" height="30" width="40" /></a>
-<a href="https://instagram.com/gudlyf2jef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gudlyf2jef" height="30" width="40" /></a>
+<a href="https://instagram.com/gudlyf2jeff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gudlyf2jef" height="30" width="40" /></a>
 <a href="https://hashnode.com/fnets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="fnets" height="30" width="40" /></a>
 <a href="https://medium.com/@gudlyf2jef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gudlyf2jef" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCZNbuFOeZmRpcBOl0L_g5lg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Francis Omaji Adegbe" height="30" width="40" /></a>
