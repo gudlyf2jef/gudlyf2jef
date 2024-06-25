@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Francis Adegbe, A Fullstack Developer, An astute wordpress expert with over 2 plugins built, A Data Analyst, Video Editor, Graphics Designer, A Consultant And A Core Trainer And Collaborator.
+<h3 align="center">Hi 👋, I'm Francis Adegbe, A Fullstack Developer, An astute wordpress expert with over 2 plugins built, A Data Analyst, Video Editor, Graphics Designer, A Consultant And A Core Trainer And Collaborator.
 
-Contact Me +234 706 847 3984</h1>
-<h3 align="center">Over 12+ experiences <br> Over 50 Happy Clients Inclusive Local and Internation. </h3>
+Contact Me +234 706 847 3984</h3>
+<h3 align="center">Over 13+ experiences <br> Over 50 Happy Clients Inclusive Local and Internation. </h3>
 <h3 align="center">in collaboration and building together with a team</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gudlyf2jef" alt="gudlyf2jef" /></a> </p>
 
-- 🔭 I’m currently working on [a project in wordpress](#)
+- 🔭 I’m currently working on [a project in React Native](#)
 
 - 🌱 I’m currently learning **Cyber Security with GOOGLE**
 
